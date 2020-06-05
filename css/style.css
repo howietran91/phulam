@@ -111,6 +111,10 @@ nav.subnav{overflow: hidden; background: #fff; position: absolute; top: 122px; l
 .listdesign li .pad{padding:5px;margin:5px;background: #f1f1f2}
 .listdesign li .images{height: 260px; overflow: hidden;}
 .listdesign li .images img{width: 100%; height: 100%}
+
+.listdesign li .images img:hover {
+    opacity: 0.9;
+}
 .listdesign li .info{padding: 10px; height: 105px}
 .listdesign li h3{text-transform: none; color: #264c5d; font-weight: bold; font-size: 18px; line-height: 24px; margin-bottom: 15px;}
 .listdesign li h3 a{color: #3a3a3a;}
@@ -122,6 +126,10 @@ nav.subnav{overflow: hidden; background: #fff; position: absolute; top: 122px; l
 .listnews li .pad{padding:10px;margin:5px;background: #f1f1f2}
 .listnews li .images{height: 210px; overflow: hidden;}
 .listnews li .images img{width: 100%; height: 100%}
+
+.listnews li .images img:hover {
+    opacity: 0.9;
+}
 .listnews li h3{text-transform: none; color: #264c5d; font-weight: normal; font-size: 16px; line-height: 24px; margin:10px 0 10px; height: 48px; overflow: hidden;}
 .listnews li h3 a{color: #3a3a3a;}
 .listnews li p{line-height: 24px; color: #888; height: 72px; overflow: hidden;}
