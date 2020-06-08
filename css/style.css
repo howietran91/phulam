@@ -543,7 +543,7 @@ a.togglechange{background:url(../images/closemobi.svg) top center no-repeat;back
 .listnews,.listproject,.listdesign,.listvideo,.service{margin: 0}
 .container{width: 99%}
 .titlehome a{font-size: 20px; line-height: 30px}
-.titlehome:after{right: 12%;width: 35%;}
+.titlehome:after{right: 22%;width: 25%;}
 
 .header-top{line-height: 22px; font-size: 11px}
 }
